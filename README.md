@@ -1,7 +1,7 @@
 # 🖼️ SEMA 서울시립미술관
 
 ## 🌱 프로젝트 링크  
-🔗 [ SEMA 서울시립미술관 ](https://github.com/username/project-name)
+🔗 [ SEMA 서울시립미술관 ](https://github.com/mjpark-2k/sema.git)
 
 ---
 
